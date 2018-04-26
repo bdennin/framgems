@@ -61,7 +61,7 @@ go()
 
   loop
   {
-    ;start_mission()
+    start_mission()
 
     level := current_level
 
